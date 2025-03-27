@@ -1,0 +1,26 @@
+[
+  {
+    "Loan ID":1001,
+    "Applicant Name":"John Doe",
+    "Loan Amount":5000,
+    "Loan Type":"Personal Loan",
+    "Interest Rate":5.5,
+    "Loan Term (Months)":24,
+    "Status":"Pending",
+    "Application Date":"2025-03-27",
+    "Approval Date":null,
+    "Remarks":""
+  },
+  {
+    "Loan ID":1002,
+    "Applicant Name":"Jane Smith",
+    "Loan Amount":15000,
+    "Loan Type":"Auto Loan",
+    "Interest Rate":4.2,
+    "Loan Term (Months)":36,
+    "Status":"Approved",
+    "Application Date":"2025-03-20",
+    "Approval Date":"2025-03-25",
+    "Remarks":"First-time borrower"
+  }
+]
